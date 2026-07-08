@@ -8,7 +8,7 @@
 
 ## 第 1 周：理解 LLM 与 Agent 的本质
 
-- [ ] Day 01: LLM 的基本原理 — Token、Context Window、Temperature
+- [x] Day 01: LLM 的基本原理 — Token、Context Window、Temperature
 - [ ] Day 02: Prompt Engineering 基础 — System Prompt、Few-shot、Chain-of-Thought
 - [ ] Day 03: 什么是 AI Agent？与 Chatbot 的本质区别 + Agent 核心架构
 - [ ] Day 04: ReAct 模式 — Reasoning + Acting 循环
@@ -91,9 +91,9 @@
 ## 📝 进度追踪
 
 - **开始日期:** 2026-07-09
-- **当前进度:** Day 0 / 56
-- **最后更新:** 尚未开始
-- **下次生成:** Day 01
+- **当前进度:** Day 1 / 56
+- **最后更新:** 2026-07-08
+- **下次生成:** Day 02
 
 ---
 
